@@ -1,0 +1,138 @@
+body {
+    background-color: #fff0f6;
+    font-family: Arial, sans-serif;
+    color: #2b2027;
+    }
+    body {
+background-image: url("img/parempi.png");
+    background-repeat: repeat;
+    background-size: 250px;
+      }
+      #ostoslista, #ostetutTuotteet {
+        background-color:#fff0f6;
+        border: 3px solid #ff69b4;
+        border-radius: 15px;
+        padding: 20px;
+        min-height: 100px;
+    }  
+    button {
+        background-color: #ff69b4;
+        color: white;
+        border: none;
+        border-radius:12px;
+        padding: 10px 15px;
+        margin: pointer;
+        font-size: 16px;
+    }
+    button:hover {
+        background-color: #e60073;
+    }
+    h2 {
+        color: #e60073;
+        font-size: 28px;
+    }
+    input {
+background-color: #fff0f6;
+border: 2px solid #ff69b4;
+border-radius: 10px;
+padding: 10px;
+font-size: 16px;
+    }
+input:focus {
+    outline: none;
+    border-color: #e60073;
+}
+h2 {
+    color: #e60073;
+    background-color: #fff0f6;
+    border: 2px solid #ff69b4;
+    border: 3px solid #ff69b4;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    font-size: 28px;
+}
+li {
+    background-color:#ff69b4;
+    color: white;
+    border-radius: 12px;
+    padding: 10px 15px;
+    margin: 10px 0;
+    width: fit-content;
+    font-size: 18px;
+    list-style-type: none;
+}
+ul {
+    padding-left: 20px;
+}
+
+/* VAIHE 7: Otsikot kiinni ostoslistoihin */
+h2 {
+    margin-bottom: 0;
+    border-radius: 15px 15px 0 0;
+    border-bottom: none;
+}
+
+#ostoslista, #ostetutTuotteet {
+    margin-top: 0;
+    border-radius: 0 0 15px 15px;
+}
+
+/* VAIHE 8: Yläosan tekstit selkeämmiksi */
+h1 {
+    background-color: #fff0f6;
+    color: #e60073;
+    border: 3px solid #ff69b4;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+p {
+    background-color: #fff0f6;
+    color: #2b2027;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+label {
+    background-color: #fff0f6;
+    color: #2b2027;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+
+body {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 32px;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    padding: 12px;
+}
+
+#ostoslista, #ostetutTuotteet {
+    min-height: 40px;
+    padding: 15px;
+}
+
+#virhe {
+    background-color: transparent;
+    padding: 0;
+    color: red;
+}
+
+li {
+    margin: 8px 0;
+}
