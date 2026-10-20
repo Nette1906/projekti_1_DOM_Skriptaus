@@ -36,7 +36,7 @@ Kauppalista mukana kun laput hukassa on verkkosovellus, joka auttaa käyttäjä�
 - HTML – sivun rakenne
 - CSS – ulkoasu ja asettelu
 - JavaScript – toiminnallisuus, DOM-skriptaus ja lomakkeiden validointi
-- DOM- skriptaus: Sivun sisällön muuttminen JavaScriptin avuin.
+- DOM- skriptaus: Sivun sisällön muuttminen JavaScriptin avuin
 - localStorage – tietojen tallentaminen selaimeen
 
 ## Sovelluksen käyttö
